@@ -32,3 +32,5 @@ https://aws.amazon.com/solutions/
 
 # devops specialilst 
 https://www.reddit.com/r/devops/comments/xqe43u/just_got_hired_as_devops_engineer_feel_out_of/
+
+
