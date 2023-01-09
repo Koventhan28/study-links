@@ -1,16 +1,16 @@
 # study-links
 # Job profile details needed for studying 
  
-Bachelor's / Master’s degree in Engineering
-3+ years in DevOps with experience
-Infrastructure provisioning and configuration
-Cloud migration and automation
-Cloud security and optimization
-Infrastructure and application delivery automation (CI/CD)
-Experience with Terraform and Helm
-Experience in Docker and Kubernetes
-Self-starter, proactive, results oriented and excellent people skills
-Ability to explain technical concepts to executives and technical stakeholders	
+Hands on experience managing Converged and Hyperconverged Infra (HCI)
+Good command on Linux and its flavours
+Hands on experience with VMware Virtualization
+Cisco Data Centre Networking/ Enterprise Networking
+Automation/ Scripting knowledge in Shell, Python, etc.
+Expertise in various CI/CD, Automation and Monitoring tools
+DevOps/ SRE Mindset/ Expertise
+Qualification – BE/BTCH
+ITIL v3 Foundation preferred
+Strong in OS Fundamentals – Windows, Linux, VMware and others.
 # Details on the architecture types
 https://aws.amazon.com/architecture/reference-architecture-diagrams/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=industry%23travel&awsm.page-whitepapers-main=3
 
