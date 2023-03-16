@@ -16,3 +16,5 @@ https://medium.com/@edgars.rungis/how-to-develop-simple-ci-cd-pipeline-by-using-
 
 https://blog.devgenius.io/build-an-end-to-end-ci-cd-pipeline-for-flask-application-on-gcp-84284b0db66
 
+https://snyk.io/blog/best-practices-containerizing-python-docker/
+
